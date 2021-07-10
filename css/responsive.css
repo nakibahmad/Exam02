@@ -1,0 +1,115 @@
+@media (max-width:1400px){
+    .about-content h1 {
+        font-size: 38px;
+    }
+}
+@media (max-width:1200px){
+    .jon-header ul {
+        width: 150%;
+    }
+    .header-logo img {
+        width: 55% !important;
+    }
+    .Research-section {
+        margin-top: 0px;
+    }
+    .top-reaserch {
+        margin-top: 0px;
+    }
+    .research-item {
+        margin-bottom: 25px;
+    }
+    .about-img {
+        position: relative;
+        top: 120px;
+    }
+    .service-item .ser-icon i {
+        font-size: 23px;
+        height: 45px;
+        width: 45px;
+        line-height: 45px;
+    }
+    .service-item .ser-content {
+        width: 110%;
+    }
+    .service-item .ser-content h2 {
+        font-size: 18px;
+    }
+    .service-item .ser-content p {
+        line-height: 1.5;
+        margin-bottom: 8px;
+    }
+    .experieance-img img {
+        position: relative;
+        top: 185px;
+        left: 0;
+    }
+    .experieance-text p {
+        line-height: 1.5;
+        font-weight: 500;
+        font-size: 14px;
+    }
+
+  
+}
+@media (max-width:992px){
+    .mobile-menu-bar {
+        display: none !important;
+    }
+    .top-left ul {
+        text-align: center;
+    }
+    .top-right ul li {
+        text-align: center;
+    }
+    .jon-header ul li .dropddown-menu {
+        position: absolute;
+        top: 100%;
+        left: 125px;
+    }
+    .jon-header ul li .dropddown-menu li ul {
+        left: 100%;
+    }
+    .curosel-contents h1 {
+        font-size: 50px;
+    }
+    .Research-section {
+        margin-top: 0px;
+    }
+    .about-img {
+        position: relative;
+        top: 0px;
+        margin-bottom: 55px;
+    }
+    .service-item .ser-icon i {
+        font-size: 28px;
+        height: 55px;
+        width: 55px;
+        line-height: 55px;
+    }
+    .project-item .project-img img {
+        width: 100%;
+    }
+    .project-item .project-img {
+        width: 100% ;
+    }
+    .experieance-text p {
+        font-size: 16px;
+    }
+    .experieance-img img {
+        top: 35px;
+    }
+    .news-item .news-img img {
+        width: 100%;
+    }
+
+}
+@media (max-width:768px){}
+@media (max-width:576px){}
+@media (max-width:435px){
+    .about-item ul li {
+        font-size: 15px;
+        margin-bottom: 5px;
+
+    }
+}
